@@ -16,7 +16,7 @@ written permission of Adobe.
  
 /**********************************************************
 
-ExportDocsAsPNG24.jsx
+ai2png.jsx
  
 DESCRIPTION
  
