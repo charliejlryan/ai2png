@@ -22,7 +22,7 @@ DESCRIPTION
  
 This sample gets files specified by the user from the 
 selected folder and batch processes them and saves them 
-as PNGs in the user desired destination with the same 
+as PNGs in the same destination with the same 
 file name.
 
 **********************************************************/
