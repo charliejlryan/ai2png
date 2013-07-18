@@ -69,11 +69,11 @@ if ( sourceFolder != null )
             
             sourceDoc.close(SaveOptions.DONOTSAVECHANGES);
         }
-        alert( 'Files are saved as PNG in ' + destFolder );
+        alert( 'Files Saved Successfully' );
     }
     else
     {
-        alert( 'No matching files found' );
+        alert( 'Uh-oh! No matching files found' );
     }
 }
  
